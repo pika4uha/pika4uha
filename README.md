@@ -27,6 +27,6 @@
 
 <h2>Anecdote for you 🤣</h2>
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 
 <h2>My hobies 🚲</h2>
