@@ -3,6 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=26F73C&center=%D0%BB%D0%BE%D0%B6%D1%8C&vCenter=%D0%BB%D0%BE%D0%B6%D1%8C&width=600&lines=Web+designer%2C+developer+(C%23+%2F+web)%2C+product+manager+)](https://git.io/typing-svg)
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 <!--
 **pika4uha/pika4uha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
