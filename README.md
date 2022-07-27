@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="/" target="_blank">Konstantin (pika4uha)</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=26F73C&center=%D0%BB%D0%BE%D0%B6%D1%8C&vCenter=%D0%BB%D0%BE%D0%B6%D1%8C&lines=Web+designer%2C+developer+(C%23+%2F+web)%2C+product+manager+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=26F73C&center=%D0%BB%D0%BE%D0%B6%D1%8C&vCenter=%D0%BB%D0%BE%D0%B6%D1%8C&width=600&lines=Web+designer%2C+developer+(C%23+%2F+web)%2C+product+manager+)](https://git.io/typing-svg)
 
 <!--
 **pika4uha/pika4uha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
